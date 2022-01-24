@@ -1,0 +1,151 @@
+body{
+    margin: 6px 1px 6px 1px;
+    font-family: 'Muli' sans-serif;
+ 
+}
+.intro{
+    align-content: center;
+}
+hr{
+    color: black;
+    font-weight: 12px;
+}
+h1{
+    font-family: "Monserrat-Black";
+    font-size: 27spx;
+    line-height: 1.5;
+}
+.containers{
+    align-content: center;
+}
+.bg-image{
+    opacity:0.5;
+    margin: 12px 6px 12px 6px;
+    size: 100%;
+}
+.section2{
+    margin: 5px 1px 5px 1px;
+    content: center;
+}
+.Head-img{
+    content: center;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: rgb(3, 3, 3);
+    
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-family: sans-serif;
+  }
+  .cards{
+    margin: 12px 6px 12px 6px;
+  }
+  .carosel-1{
+      margin: 12px 6px 12px 6px;
+  }
+  .containers{
+      position: relative;
+      align-content: center;
+      margin:6px;
+  }
+  .mg-img{
+      width:40%;
+      float: left;
+      margin: 2px 30px 2px 6px;
+
+  }
+  .managerial-p{
+      font-family: sans-serif;
+      font-size: 20px;
+      color:black;
+  }
+  .about-us{
+      padding: 130px 0;
+      background:cadetblue;
+  }
+  .about-us {
+      padding: 50px;
+  }
+  .about-us h2{
+      font-size: 30px;
+      font-weight: 800;
+      color:rgb(3, 3, 3);
+  }
+  .services{
+      padding-bottom: 90px;
+      
+  }
+  .services h2{
+      font-size: 30px;
+      font-weight: 800;
+      color:skyblue;
+      margin-bottom: 60px;
+  }
+  .services .box{
+      padding: 32px;
+      margin-bottom: 30px;
+      background:rgb(115, 201, 201);
+
+  }
+.services .box span{
+    font-size: 30px;
+    color:steelblue;
+}
+.services .box h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(26, 24, 24);
+    margin: 0;
+    padding: 0;
+    margin: 20px 0;
+}
+.services .box p{
+    font-size: 14px;
+    color: rgb(39, 33, 23);
+    font-weight: 400;
+    line-height: 26px;
+    padding: 0;
+    margin: 0;
+}
+.contacts{
+     background: cadetblue;
+}
+
+.footer{
+  padding: 40px 0;
+  background: cadetblue;
+  margin: 6px;
+
+}
+.footer .social-icons span{
+    color:cornsilk;
+    padding: 0 5px;
+}
+.details{
+    margin: auto;
+    width: 70%;
+    padding: 15px;
+    border: 5px solid cadetblue;
+    text-align: center;
+   
+}
+.contact-text{
+    color: cadetblue;
+}
+.details span{
+    color: cadetblue;
+}
+
+
+
+
+
+
+
